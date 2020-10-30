@@ -3,9 +3,9 @@ The growth of supermarkets in most populated cities are increasing and market co
 The Model will help in predictions of a customer prefrences according to their history or their physical & mental factors.
 
 ### Libraries used
-- numpy #linear algebra
-- pandas # data processing, CSV file I/O (e.g. pd.read_csv)
-- seaborn & matplotlib #data plotting
+- numpy (linear algebra)
+- pandas { data processing, CSV file I/O (e.g. pd.read_csv)}
+- seaborn & matplotlib (data plotting)
 
 
 ### Purpose
